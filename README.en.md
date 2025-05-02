@@ -5,8 +5,7 @@
 I'm a full-stack web developer specializing in modern applications with **React**, **Next.js**, **Tailwind CSS**, **Node.js**, and **Java (Spring Boot)**.  
 I build fast, scalable and maintainable solutions, working across both frontend and backend.
 
-🎯 Open for freelance and contract work  
-🌍 Available for remote and Switzerland-based projects  
+🎯 Open for freelance and contract work 
 🧑‍💻 Happy to collaborate with agencies and teams
 
 ---
@@ -29,7 +28,7 @@ I build fast, scalable and maintainable solutions, working across both frontend 
 📫 **Contact**
 
 📩 Email: mj@fusiondev.de 
-🐙 GitHub: [github.com/smoggok](https://github.com/smoggok)
+🐙 GitHub: [fusiondev-official](https://github.com/fusiondev-official)
 
 ---
 
