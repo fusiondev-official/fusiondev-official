@@ -1,6 +1,3 @@
----
-# README.en.md (English)
-
 # 👋 Welcome to fusiondev
 
 🚀 **About Me**
