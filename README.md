@@ -1,5 +1,3 @@
-# README.md (Deutsch)
-
 # 👋 Willkommen bei fusiondev
 
 🚀 **Über mich**
