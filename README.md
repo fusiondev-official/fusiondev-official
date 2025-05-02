@@ -31,9 +31,8 @@ Ich entwickle performante, wartbare Lösungen mit hohem Anspruch an Design, Stru
 
 📫 **Kontakt**
 
-📩 E-Mail: max@fusiondev.de  
-💼 LinkedIn: [linkedin.com/in/fusiondev](https://linkedin.com/in/fusiondev)  
-🐙 GitHub: [github.com/fusiondev](https://github.com/fusiondev)
+📩 E-Mail: mj@fusiondev.de
+🐙 GitHub: [github.com/smoggok](https://github.com/smoggok)
 
 ---
 
