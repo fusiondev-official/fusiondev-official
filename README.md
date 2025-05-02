@@ -13,7 +13,7 @@ Ich entwickle performante, wartbare Lösungen mit hohem Anspruch an Design, Stru
 🛠️ **Tech Stack**
 
 **Frontend:** React, Next.js, Tailwind CSS, TypeScript  
-**Backend:** Node.js, Java (Spring Boot) 
+**Backend:** Node.js, Java (Spring Boot)   
 **Datenbank:** PostgreSQL  
 **Tools:** Git, GitHub, Vercel, VS Code, IntelliJ IDEA
 
