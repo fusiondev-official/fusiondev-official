@@ -31,9 +31,8 @@ I build fast, scalable and maintainable solutions, working across both frontend 
 
 📫 **Contact**
 
-📩 Email: max@fusiondev.de  
-💼 LinkedIn: [linkedin.com/in/fusiondev](https://linkedin.com/in/fusiondev)  
-🐙 GitHub: [github.com/fusiondev](https://github.com/fusiondev)
+📩 Email: mj@fusiondev.de 
+🐙 GitHub: [github.com/smoggok](https://github.com/smoggok)
 
 ---
 
