@@ -2,23 +2,34 @@
 
 🚀 **Über mich**
 
-Ich bin Full-Stack-Webentwickler mit Fokus auf moderne Webanwendungen mit **React**, **Next.js**, **Tailwind CSS**, **Node.js** und **Java (Spring Boot)**.  
-Ich entwickle performante, wartbare Lösungen mit hohem Anspruch an Design, Struktur und Benutzerfreundlichkeit – sowohl im Frontend als auch im Backend.
+Ich bin Full-Stack-Webentwickler mit Fokus auf moderne Webanwendungen mit **React**, **Next.js**, **Tailwind CSS** und **Node.js**.  
+Ich entwickle performante, wartbare Lösungen mit hohem Anspruch an Design, Struktur und Benutzerfreundlichkeit.
+
+🎯 Freelancer für Agenturen & Unternehmen  
+🧑‍💻 Verfügbar für Remote & Hybrid-Projekte
+
+---
 
 🛠️ **Tech Stack**
 
 **Frontend:** React, Next.js, Tailwind CSS, TypeScript  
-**Backend:** Node.js, Express, Java (Spring Boot)  
+**Backend:** Node.js, Express  
 **Datenbank:** PostgreSQL  
-**Tools:** Git, GitHub, Vercel, VS Code, IntelliJ IDEA
+**Tools:** Git, GitHub, Vercel, VS Code
+
+---
 
 📢 **Live-Projekt**
 
 🌐 [fusiondev.de](https://fusiondev.de) – meine persönliche Portfolio-Website
 
+---
+
 📫 **Kontakt**
 
 📩 E-Mail: mj@fusiondev.de
-🐙 GitHub: [github.com/smoggok](https://github.com/smoggok)
+🐙 GitHub: [fusiondev-official](https://github.com/fusiondev-official)
+
+---
 
 📄 Available in: [English](./README.en.md)
