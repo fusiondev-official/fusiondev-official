@@ -1,16 +1,40 @@
-## Hi there 👋
+---
+# README.md (Deutsch)
 
-<!--
-**smoggok/smoggok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Willkommen bei fusiondev
 
-Here are some ideas to get you started:
+🚀 **Über mich**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ich bin Full-Stack-Webentwickler mit Fokus auf moderne Webanwendungen mit **React**, **Next.js**, **Tailwind CSS**, **Node.js** und **Java (Spring Boot)**.  
+Ich entwickle performante, wartbare Lösungen mit hohem Anspruch an Design, Struktur und Benutzerfreundlichkeit – sowohl im Frontend als auch im Backend.
+
+🎯 Freelancer für Agenturen & Unternehmen  
+🌍 Ziel: auch Projekte in der Schweiz  
+🧑‍💻 Verfügbar für Remote & Hybrid-Projekte
+
+---
+
+🛠️ **Tech Stack**
+
+**Frontend:** React, Next.js, Tailwind CSS, TypeScript  
+**Backend:** Node.js, Express, Java (Spring Boot)  
+**Datenbank:** PostgreSQL  
+**Tools:** Git, GitHub, Vercel, VS Code, IntelliJ IDEA
+
+---
+
+📢 **Live-Projekt**
+
+🌐 [fusiondev.de](https://fusiondev.de) – meine persönliche Portfolio-Website
+
+---
+
+📫 **Kontakt**
+
+📩 E-Mail: max@fusiondev.de  
+💼 LinkedIn: [linkedin.com/in/fusiondev](https://linkedin.com/in/fusiondev)  
+🐙 GitHub: [github.com/fusiondev](https://github.com/fusiondev)
+
+---
+
+📄 Available in: [English](./README.en.md)
